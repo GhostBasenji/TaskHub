@@ -6,7 +6,7 @@
 
 Проект развивается в рамках серии:
 
-> [**Практика с ASP.NET Core Web API (.NET 8)**](https://ghostbasenji.github.io/series/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0-%D1%81-asp.net-core-web-api-.net-8/)
+> [**Практика с ASP.NET Core Web API (.NET 8)**](https://ghostbasenji.github.io/series/praktika-s-aspnet-core-web-api-dotnet-8/)
 
 ## Что будет реализовано
 
